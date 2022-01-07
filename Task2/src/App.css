@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.btn{
+   margin-left: 45%;
+   padding: 10px;
+}
+.email{
+  padding: 2%;
+  margin-top: -25px;
+  margin-left: 10px;
+  font-size: 1.1em;
+}
+.para{
+  margin-left: -250px;
+  margin-top: 45px;
+  text-align: center;
+  padding: 2px;
+}
+.card{
+  background-color: gold;
+}
+.card:hover{
+  background-color: tomato;
+  cursor: pointer;
+}
